@@ -22,7 +22,6 @@ We pay when the client pays. Not in ninety days.
 |---|---|
 | Website | [velrix.us.ci](https://velrix.us.ci) |
 | About | [velrix.us.ci/about/luka](https://velrix.us.ci/about/luka/) |
-| Instagram | [@velrix_studio](https://www.instagram.com/velrix_studio) |
 | Email | ceoofvelrix@gmail.com |
 
 Most of my code lives in private repos. The work is at [velrix.us.ci](https://velrix.us.ci).
