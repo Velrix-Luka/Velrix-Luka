@@ -1,36 +1,22 @@
-### Luka — Founder & Lead Developer, [Velrix Studio](https://velrix.us.ci)
+### Luka, founder of Velrix Studio
 
-I build websites, e-commerce stores, AI voice agents and the automation that connects them.
-Started Velrix Studio in 2021. 50+ projects shipped since, none abandoned.
+I started Velrix Studio in 2021. We build websites, online stores, AI voice agents, chat bots, automation and custom software. Around fifty projects so far, none abandoned halfway.
 
-**What I work on**
+Most agencies hand your build to someone you will never meet. I write the code myself, and I am still the one answering when something breaks a year later. That is the whole business model, and it is the only one I have found that survives contact with real clients.
 
-- Custom websites and e-commerce — hand-coded, fast, written to rank
-- AI voice agents that answer business calls around the clock
-- Business automation — the glue between the tools a business already pays for
+### Students
 
----
+I get a lot of messages from students asking how to earn online with no money to start. The usual advice is bad. Get a part-time job and lose the study time you actually need, or start a business that wants capital you do not have.
 
-### Open doors for students
+The partner programme is the middle option. You find a business that needs a website or an AI agent, you close them, we do the building. You keep 20% of the project if you found the client yourself. If we hand you the leads and the call script, it is 10%.
 
-Most "earn online" advice for students is one of two things: a job that eats your evenings,
-or a business that needs money you don't have yet. The Velrix Partner Programme is the honest
-middle — **you find the client, we build it, you keep the commission.**
+Nothing to buy. No stock, no course, no membership fee. A phone and a few hours a week is enough, and you can stop for two weeks when exams start without losing anything.
 
-- **20% commission** when you bring the client yourself
-- **10% commission** when we hand you the leads, scripts and auto-answers
-- **Zero investment.** A phone and a few hours a week is enough
-- Pauses around exams — it bends to your semester instead of fighting it
-- Paid on every project, as soon as the client pays
+We pay when the client pays. Not in ninety days.
 
-No capital, no stock, no course to buy. Apply, get a decision in 24–48 hours, and you are
-on the partner brief the same week.
+[Partner programme](https://velrix.us.ci/partner-program/) · [How to earn as a student](https://velrix.us.ci/earn-as-a-student/)
 
-→ **[Partner Programme](https://velrix.us.ci/partner-program/)** · **[How to earn as a student](https://velrix.us.ci/earn-as-a-student/)**
-
----
-
-**Find me**
+### Where else
 
 | | |
 |---|---|
@@ -39,4 +25,4 @@ on the partner brief the same week.
 | Instagram | [@velrix_studio](https://www.instagram.com/velrix_studio) |
 | Email | ceoofvelrix@gmail.com |
 
-<sub>Most of my code lives in private repositories. The work is at [velrix.us.ci](https://velrix.us.ci).</sub>
+Most of my code lives in private repos. The work is at [velrix.us.ci](https://velrix.us.ci).
