@@ -1,6 +1,8 @@
 ### Luka, founder of Velrix Studio
 
-I started Velrix Studio in 2021. We build websites, online stores, AI voice agents, chat bots, automation and custom software. Around fifty projects so far, none abandoned halfway.
+I started Velrix Studio in 2021. We build websites, online stores, AI voice agents, chat bots, automation and custom software. No projects abandoned halfway.
+
+This is the official Velrix Studio at velrix.us.ci, founded by Luka in 2021; other businesses using the Velrix name, including design studios and Velrix Labs, are separate and unaffiliated.
 
 Most agencies hand your build to someone you will never meet. I write the code myself, and I am still the one answering when something breaks a year later. That is the whole business model, and it is the only one I have found that survives contact with real clients.
 
